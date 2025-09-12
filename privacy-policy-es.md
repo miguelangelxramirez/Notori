@@ -1,60 +1,77 @@
- TÉRMINOS Y CONDICIONES DE USO
-    
-    Última actualización: 6 de agosto de 2025
-    
-    ¡Bienvenido a Notori! Al utilizar esta aplicación, aceptas estos Términos y Condiciones. Si no estás de acuerdo, por favor no uses la app.
-    
-    1. DESCRIPCIÓN DEL SERVICIO
-    • Notori es una aplicación de notas con funciones potenciadas por IA
-    • Crea notas, recordatorios y eventos de calendario
-    • Sincroniza datos entre dispositivos usando iCloud
-    • Accede a funciones premium mediante suscripción
-    
-    2. RESPONSABILIDADES DEL USUARIO
-    • Eres responsable de todo el contenido que creas
-    • No uses la app para fines ilegales o dañinos
-    • Mantén la confidencialidad de tu cuenta
-    • Asegura que tu dispositivo tenga medidas de seguridad adecuadas
-    
-    3. SUSCRIPCIÓN PREMIUM
-    • Las funciones premium requieren suscripción de pago
-    • La suscripción se renueva automáticamente salvo cancelación
-    • Cancela cuando quieras desde los ajustes de App Store
-    • Los precios pueden variar por región y están sujetos a cambios
-    • La prueba gratuita se convierte en suscripción de pago si no se cancela
-    
-    4. DATOS Y PRIVACIDAD
-    • No recopilamos información personal
-    • Los datos se almacenan en tu dispositivo y/o iCloud
-    • Tú controlas todos los permisos de acceso al sistema
-    • Consulta nuestra Política de Privacidad para más detalles
-    
-    5. PROPIEDAD INTELECTUAL
-    • Notori y su contenido original son propiedad del desarrollador
-    • Tu contenido sigue siendo de tu propiedad
-    • Nos otorgas licencia para mostrar tu contenido dentro de la app
-    
-    6. LIMITACIÓN DE RESPONSABILIDAD
-    • La app se proporciona "tal cual" sin garantías
-    • No somos responsables por pérdida de datos o daños
-    • No garantizamos servicio ininterrumpido
-    • Responsabilidad máxima limitada a la tarifa de suscripción pagada
-    
-    7. CANCELACIÓN Y REEMBOLSOS
-    • Cancela la suscripción cuando quieras vía App Store
-    • Los reembolsos se manejan según las políticas de Apple
-    • Sin reembolsos por períodos de facturación parciales
-    
-    8. CAMBIOS EN LOS TÉRMINOS
-    • Podemos actualizar estos términos periódicamente
-    • El uso continuado constituye aceptación de los cambios
-    • Los cambios importantes se notificarán en la app
-    
-    9. INFORMACIÓN DE CONTACTO
-    Email: support@notori.app
-    App Store: Deja una reseña o contacta a través de App Store
-    
-    10. LEY APLICABLE
-    Estos términos se rigen por las leyes de España/UE, sin consideración a conflictos de principios legales.
-    
-    Al usar Notori, reconoces que has leído, entendido y aceptas estar sujeto a estos Términos y Condiciones.
+POLÍTICA DE PRIVACIDAD
+
+    Última actualización: 12 de septiembre de 2025
+
+    Tu privacidad es importante. Esta Política explica cómo Notori maneja tu información.
+
+    1. LO QUE NO HACEMOS
+    • No vendemos tus datos. No integramos redes de anuncios.
+    • No operamos servidores propios para almacenar tu contenido personal.
+    • No usamos cookies de terceros dentro de la App.
+
+    2. ALMACENAMIENTO DE DATOS
+    • Notas, recordatorios y contenido relacionado se guardan localmente en tu dispositivo.
+    • Si activas iCloud/CloudKit, el contenido puede sincronizarse entre tus dispositivos mediante los servicios de Apple.
+    • iOS/iCloud proporcionan cifrado y seguridad; gestiona la seguridad de tu Apple ID.
+
+    3. PERMISOS DEL SISTEMA
+    Podemos solicitar acceso a:
+    • Calendario – para crear/mostrar eventos que solicites.
+    • Recordatorios – para crear/gestionar tareas que solicites.
+    • Notificaciones – para avisarte en fechas/horas que elijas.
+    • Micrófono – para notas de voz (procesadas en el dispositivo).
+    • Fotos/Cámara – solo cuando adjuntas imágenes.
+    • iCloud – para sincronización, si lo habilitas.
+    Puedes revocar permisos desde Ajustes de iOS.
+
+    4. IA Y PROCESAMIENTO EN LA NUBE (OPCIONAL)
+    • Por defecto, la IA en la nube está DESACTIVADA. Puedes activarla/desactivarla en Ajustes → Privacidad e IA.
+    • Al activarla, la App puede enviar el texto que escribes y, solo si lo permites, las imágenes que adjuntas, al proveedor de IA seleccionado (OpenAI y/o Google Gemini) exclusivamente para obtener un resultado para ti.
+    • No entrenamos modelos propios con tu contenido personal.
+    • Los proveedores procesan los datos bajo sus propios términos y políticas de privacidad; revísalos.
+    • Puedes elegir proveedor preferido (Automático/OpenAI/Gemini/Ninguno). “Ninguno” mantiene el procesamiento en el dispositivo o usa lógica local con capacidades reducidas.
+
+    5. SERVICIOS DE TERCEROS QUE USAMOS
+    • Apple (App Store, iCloud/CloudKit, Notificaciones, Calendario, Recordatorios).
+    • RevenueCat – gestión del estado de suscripción.
+    • Google Sign-In – inicio de sesión opcional (si lo usas).
+    • Facebook SDK – puede registrar eventos de la app; el rastreo requiere tu consentimiento según App Tracking Transparency (ATT) de iOS.
+    • OpenAI / Google Gemini – solo si habilitas funciones de IA en la nube.
+
+    6. ANALÍTICA / RASTREO
+    • No usamos redes de anuncios.
+    • Facebook SDK, si está presente, respeta tu elección ATT; si deniegas el rastreo, no te rastreamos entre apps/sitios.
+    • Puedes cambiar el permiso ATT en Ajustes de iOS.
+
+    7. SEGURIDAD DE DATOS
+    • Confiamos en la seguridad de iOS (recomendado código/biometría).
+    • iCloud está protegido por el cifrado de Apple.
+    • No operamos servidores para almacenar tus notas personales.
+
+    8. CONSERVACIÓN Y ELIMINACIÓN
+    • Puedes eliminar notas, recordatorios y eventos cuando quieras.
+    • Puedes eliminar todos los datos desde los ajustes de la App.
+    • Desinstalar la App elimina los datos locales de ese dispositivo.
+    • El contenido de iCloud se gestiona en Ajustes de iOS → Apple ID → iCloud.
+
+    9. TUS DERECHOS (RGPD / CCPA)
+    • Acceso: tus datos están en tu dispositivo y en iCloud (si lo activas).
+    • Eliminación: puedes borrar datos en la App; desinstalar borra los datos locales.
+    • Portabilidad: puedes exportar notas desde la App.
+    • Consentimiento: puedes activar/desactivar IA en la nube y permisos de rastreo cuando quieras.
+
+    10. PRIVACIDAD INFANTIL
+    • La App está clasificada 4+. No recopilamos conscientemente datos personales de menores.
+    • Puedes usar “Tiempo de uso” de iOS como control parental.
+
+    11. CAMBIOS EN ESTA POLÍTICA
+    • Podemos actualizar esta Política; los cambios importantes pueden notificarse en la App.
+    • Revisa periódicamente.
+
+    12. CONTACTO
+    • Privacidad: support@notori.app
+
+    13. CUMPLIMIENTO
+    • Nuestro objetivo es cumplir con RGPD (UE), CCPA (California) y las Reglas de la App Store.
+    """
+}
